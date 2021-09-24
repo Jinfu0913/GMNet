@@ -16,12 +16,15 @@ Predict maps: [百度网盘](https://pan.baidu.com/s/1LPZ845jeJQ7ANeKp-6kFrA)  �
 Pretrained model download:[百度网盘](https://pan.baidu.com/s/1reGFvIYX7rZjzKuaDcs-3A)  提取码：zust <br>
 
 # Citation
-@ARTICLE{9424966,<br>
-  author={Zhou, Wujie and Zhu, Yun and Lei, Jingsheng and Wan, Jian and Yu, Lu},<br>
-  journal={IEEE Transactions on Multimedia}, <br>
-  title={CCAFNet: Crossflow and Cross-scale Adaptive Fusion Network for Detecting Salient Objects in RGB-D Images}, <br>
+@ARTICLE{9531449,<br>
+  author={Zhou, Wujie and Liu, Jinfu and Lei, Jingsheng and Yu, Lu and Hwang, Jenq-Neng},<br>
+  journal={IEEE Transactions on Image Processing}, <br>
+  title={GMNet: Graded-Feature Multilabel-Learning Network for RGB-Thermal Urban Scene Semantic Segmentation}, <br>
   year={2021},<br>
-  doi={10.1109/TMM.2021.3077767}}<br>
+  volume={30},<br>
+  number={},<br>
+  pages={7790-7802},<br>
+  doi={10.1109/TIP.2021.3109518}}<br>
 
 # Acknowledgement
 The implement this project based on the code of ‘Cascaded Partial Decoder for Fast and Accurate Salient Object Detection, CVPR2019’and 'BBS-Net: RGB-D Salient Object Detection with a Bifurcated Backbone Strategy Network' proposed by Wu et al and Deng et al.
