@@ -7,14 +7,13 @@ Code and result about GMNet(IEEE TIP)<br>
 Python 3.6.5, Pytorch 1.8.1+, Cuda 10.2, TensorboardX 2.0, opencv-python
 
 # Dataset and Evaluate tools
-RGB-D SOD Datasets can be found in:  http://dpfan.net/d3netbenchmark/  or https://github.com/jiwei0921/RGBD-SOD-datasets <br>
 
-we use the matlab verison provide by Dengping Fan, we provide our test datesets [百度网盘](https://pan.baidu.com/s/1tVJCWRwqIoZQ3KAplMSHsA) 提取码：zust 
+ The MFNet datesets for RGB-T semantic segmentation could be found in [百度网盘](https://pan.baidu.com/s/1tVJCWRwqIoZQ3KAplMSHsA) 提取码：zust 
+ We also provide the label.
 
 # Result
-Test maps: [百度网盘](https://pan.baidu.com/s/1QcEAHlS8llyX-i3kX4npAA)  提取码：zust <br>
+Predict maps: [百度网盘](https://pan.baidu.com/s/1LPZ845jeJQ7ANeKp-6kFrA)  提取码：v1fy <br>
 Pretrained model download:[百度网盘](https://pan.baidu.com/s/1reGFvIYX7rZjzKuaDcs-3A)  提取码：zust <br>
-PS: we resize the testing data to the size of 224 * 224 for quicky evaluate, [百度网盘](https://pan.baidu.com/s/1t5cES-RAnMCLJ76s9bwzmA)  提取码：zust <br>
 
 # Citation
 @ARTICLE{9424966,<br>
