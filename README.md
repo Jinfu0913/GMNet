@@ -1,7 +1,7 @@
 # GMNet-
 Code and result about GMNet(IEEE TIP)<br>
 'GMNet: Graded-Feature Multilabel-Learning Network for RGB-Thermal Urban Scene Semantic Segmentation' [IEEE TIP](https://ieeexplore.ieee.org/document/9531449)
-![image](https://user-images.githubusercontent.com/38373305/134313486-f347b60a-3301-45f0-a22f-b9bdebf2b064.png)
+![image](https://user-images.githubusercontent.com/65142166/134632191-8cfbc175-27e8-43de-b72b-bd5bf8f7c9b9.png)
 
 # Requirements
 Python 3.7, Pytorch 0.4.0+, Cuda 10.0, TensorboardX 2.0, opencv-python
