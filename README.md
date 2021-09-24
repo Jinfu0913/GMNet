@@ -1,6 +1,5 @@
 # GMNet-
-GMNet: Graded-Feature Multilabel-Learning Network for RGB-Thermal Urban Scene Semantic Segmentation
-Code and result about CCAFNet(IEEE TMM)<br>
+Code and result about GMNet(IEEE TIP)<br>
 'CCAFNet: Crossflow and Cross-scale Adaptive Fusion Network for Detecting Salient Objects in RGB-D Images' [IEEE TMM](https://ieeexplore.ieee.org/document/9424966)
 ![image](https://user-images.githubusercontent.com/38373305/134313486-f347b60a-3301-45f0-a22f-b9bdebf2b064.png)
 
