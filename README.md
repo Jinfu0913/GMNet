@@ -4,7 +4,7 @@ Code and result about GMNet(IEEE TIP)<br>
 ![image](https://user-images.githubusercontent.com/65142166/134632191-8cfbc175-27e8-43de-b72b-bd5bf8f7c9b9.png)
 
 # Requirements
-Python 3.7, Pytorch 0.4.0+, Cuda 10.0, TensorboardX 2.0, opencv-python
+Python 3.6.5, Pytorch 1.8.1+, Cuda 10.2, TensorboardX 2.0, opencv-python
 
 # Dataset and Evaluate tools
 RGB-D SOD Datasets can be found in:  http://dpfan.net/d3netbenchmark/  or https://github.com/jiwei0921/RGBD-SOD-datasets <br>
