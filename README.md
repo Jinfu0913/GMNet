@@ -1,4 +1,4 @@
-# GMNet-
+# GMNet
 Code and result about GMNet(IEEE TIP)<br>
 'GMNet: Graded-Feature Multilabel-Learning Network for RGB-Thermal Urban Scene Semantic Segmentation' [IEEE TIP](https://ieeexplore.ieee.org/document/9531449)
 ![image](https://user-images.githubusercontent.com/65142166/134632191-8cfbc175-27e8-43de-b72b-bd5bf8f7c9b9.png)
