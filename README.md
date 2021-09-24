@@ -27,7 +27,7 @@ Pretrained model download:[百度网盘](https://pan.baidu.com/s/1reGFvIYX7rZjzK
   doi={10.1109/TIP.2021.3109518}}<br>
 
 # Acknowledgement
-The implement this project based on the code of ‘Cascaded Partial Decoder for Fast and Accurate Salient Object Detection, CVPR2019’and 'BBS-Net: RGB-D Salient Object Detection with a Bifurcated Backbone Strategy Network' proposed by Wu et al and Deng et al.
+The implement of this project is based on the code of ‘RTFNet: RGB-Thermal Fusion Network for Semantic Segmentation of Urban Scenes (IEEE RAL)’ proposed by Yuxiang Sun et all.
 
 # Contact
-Please drop me an email for further problems or discussion: zzzyylink@gmail.com or wujiezhou@163.com
+Please drop me an email for further problems or discussion: tjuliujinfu@outlook.com
