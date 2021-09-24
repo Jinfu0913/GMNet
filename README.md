@@ -8,12 +8,12 @@ Python 3.6.5, Pytorch 1.8.1+, Cuda 10.2, TensorboardX 2.0, opencv-python
 
 # Dataset and Evaluate tools
 
- The MFNet datesets for RGB-T semantic segmentation could be found in [百度网盘](https://pan.baidu.com/s/1tVJCWRwqIoZQ3KAplMSHsA) 提取码：zust <br>
+ The MFNet datesets for RGB-T semantic segmentation could be found in [百度网盘](https://pan.baidu.com/s/1dpPoEnEz4lj1jm6aD7803A) 提取码：fgyx <br>
  (We also provide the label.)
 
 # Result
 Predict maps: [百度网盘](https://pan.baidu.com/s/1LPZ845jeJQ7ANeKp-6kFrA)  提取码：v1fy <br>
-Pretrained model download:[百度网盘](https://pan.baidu.com/s/1reGFvIYX7rZjzKuaDcs-3A)  提取码：zust <br>
+Pretrained model download:[百度网盘](https://pan.baidu.com/s/1RWXgDRAdH70Bx3yRULvgxg)  提取码：6hip <br>
 
 # Citation
 @ARTICLE{9531449,<br>
