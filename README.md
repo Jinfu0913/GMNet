@@ -30,4 +30,4 @@ Pretrained model download:[百度网盘](https://pan.baidu.com/s/1RWXgDRAdH70Bx3
 The implement of this project is based on the code of ‘RTFNet: RGB-Thermal Fusion Network for Semantic Segmentation of Urban Scenes (IEEE RAL)’ proposed by Yuxiang Sun et all.
 
 # Contact
-Please drop me an email for further problems or discussion: tjuliujinfu@outlook.com
+Please drop me an email for further problems or discussion: tjuliujinfu@outlook.com or  wujiezhou@163.com (https://wujiezhou.github.io/)
